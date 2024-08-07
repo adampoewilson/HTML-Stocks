@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    font-size: 2em;
     background-color: cyan;
     display: flex;
     justify-content: center;
@@ -12,7 +13,7 @@ body {
     background-color: #ffffff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(141, 93, 93, 0.1);
     text-align: center;
 }
 
